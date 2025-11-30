@@ -1,1 +1,1 @@
-This is a test file for Release Radar bot - again
+This is a test file for Release Radar bot
